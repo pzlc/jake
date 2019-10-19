@@ -4,5 +4,6 @@ RUN dnf install --assumeyes \
   patch \
   xz \
   which \
+  wget \
   tar
 
