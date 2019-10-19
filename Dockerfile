@@ -6,5 +6,6 @@ RUN dnf install --assumeyes \
   which \
   wget \
   unzip \
+  git \
   tar
 
