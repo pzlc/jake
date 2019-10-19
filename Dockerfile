@@ -7,5 +7,6 @@ RUN dnf install --assumeyes \
   wget \
   unzip \
   git \
+  gcc-c++ \
   tar
 
