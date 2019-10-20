@@ -6,6 +6,7 @@ RUN dnf install --assumeyes \
   which \
   wget \
   unzip \
+  gettext \
   git \
   gcc-c++ \
   tar
