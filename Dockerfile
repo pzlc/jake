@@ -6,6 +6,7 @@ RUN dnf install --assumeyes \
   which \
   wget \
   unzip \
+  findutils \
   gettext \
   git \
   gcc-c++ \
