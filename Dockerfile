@@ -10,5 +10,6 @@ RUN dnf install --assumeyes \
   gettext \
   git \
   gcc-c++ \
-  tar
+  tar \
+  make
 
