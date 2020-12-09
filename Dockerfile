@@ -1,4 +1,4 @@
-FROM fedora
+FROM fedora:33
 RUN dnf upgrade --refresh --assumeyes
 RUN dnf install --assumeyes \
   patch \
